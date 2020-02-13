@@ -1,9 +1,8 @@
 dock0/amylum_arch
 =======
 
-[![Automated Build](https://img.shields.io/docker/build/dock0/amylum_arch.svg)](https://hub.docker.com/r/dock0/amylum_arch/)
-[![Build Status](https://img.shields.io/travis/com/dock0/amylum_arch.svg)](https://travis-ci.com/dock0/amylum_arch)
-[![MIT Licensed](http://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/dock0/amylum_arch/Build)](https://github.com/dock0/amylum_arch/actions))
+[![License](https://img.shields.io/github/license/dock0/amylum_arch)](https://github.com/dock0/amylum_arch/blob/master/LICENSE)
 
 A minimal Arch container with the [amylum](https://github.com/amylum/repo) repo added.
 
