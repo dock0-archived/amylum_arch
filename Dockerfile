@@ -1,4 +1,4 @@
-FROM docker.pkg.github.com/dock0/arch/arch:20210718-2d30a35
+FROM docker.pkg.github.com/dock0/arch/arch:20210718-493cb93
 MAINTAINER akerl <me@lesaker.org>
 ADD amylum.conf /etc/pacman.d/amylum.conf
 RUN cat /etc/pacman.d/amylum.conf >> /etc/pacman.conf && rm /etc/pacman.d/amylum.conf
